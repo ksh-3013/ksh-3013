@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimSeHwan%20&fontSize=90)
 
 # About Me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh-3013&layout=compact)
 
 # Can Use
 <div style="display: flex"}>
