@@ -24,4 +24,5 @@
 # 📕 Studying
 <div style="display: flex">
 <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/gin-008ECF?style=for-the-badge&logo=gin&logoColor=white">
 </div>
